@@ -1,0 +1,13 @@
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada.deps.json
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada.runtimeconfig.json
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada.runtimeconfig.dev.json
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada.dll
+/home/paulo/AEDs/ListaEncadeada/bin/Debug/netcoreapp3.1/ListaEncadeada.pdb
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.csprojAssemblyReference.cache
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.AssemblyInfoInputs.cache
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.AssemblyInfo.cs
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.dll
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.pdb
+/home/paulo/AEDs/ListaEncadeada/obj/Debug/netcoreapp3.1/ListaEncadeada.genruntimeconfig.cache
